@@ -1,5 +1,6 @@
 ---
 title: Community Care
+image: /images/thumbnail-flag.png
 permalink: /faq/community-care/
 ---
 

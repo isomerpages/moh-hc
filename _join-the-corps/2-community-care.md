@@ -1,7 +1,7 @@
 ---
 title: Community Care
 description: Join the SG Healthcare Corps, and provide care for those who need it
-image: /images/jobs/community-care.png
+image: /images/thumbnail-flag.png
 permalink: /join-the-corps/community-care/
 ---
 

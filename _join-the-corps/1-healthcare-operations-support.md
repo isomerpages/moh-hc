@@ -1,7 +1,7 @@
 ---
 title: Healthcare Operations Support
 description: Work alongside our healthcare professionals in COVID-19 related operations.
-image: /images/jobs/healthcare-operations-support.png
+image: /images/thumbnail-flag.png
 permalink: /join-the-corps/healthcare-operations-support/
 ---
 

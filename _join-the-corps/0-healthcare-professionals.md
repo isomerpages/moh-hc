@@ -1,6 +1,6 @@
 ---
 title: Healthcare Professionals
-image: /images/jobs/nurse.png
+image: /images/thumbnail-flag.png
 description: Join the SG Healthcare Corps, and make a difference through your practice
 permalink: /join-the-corps/healthcare-professionals/
 ---

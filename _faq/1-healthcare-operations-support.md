@@ -1,5 +1,6 @@
 ---
 title: Healthcare Operations Support
+image: /images/thumbnail-flag.png
 permalink: /faq/healthcare-operations-support/
 ---
 

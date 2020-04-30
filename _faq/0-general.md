@@ -1,5 +1,6 @@
 ---
 title: Joining the Corps
+image: /images/thumbnail-flag.png
 permalink: /faq/general/
 ---
 
