@@ -9,8 +9,6 @@ sections:
         title: Join the SG Healthcare Corps
         subtitle: "The SG Healthcare Corps is set up to support our healthcare workforce in the fight against COVID-19. We are calling for former and current healthcare professionals to be on standby, and welcome non-healthcare professionals to provide additional support in COVID-19 operations and community care."
         background: /images/hero-banner.png
-        button: Learn More
-        url: /faq/
         key_highlights:
             - title: Healthcare Professionals
               description: Make a difference through your practice
