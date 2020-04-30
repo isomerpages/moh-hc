@@ -1,7 +1,7 @@
 ---
 layout: homepage
 title: Singapore Healthcare Corps
-description: Brief site description here
+description: Support our healthcare workforce
 image: /images/favicon-healthcare-corps.png
 permalink: /
 sections:
