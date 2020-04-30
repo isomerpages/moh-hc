@@ -1,7 +1,7 @@
 ---
 layout: homepage
 title: Singapore Healthcare Corps
-description: Support our healthcare workforce
+description: Support our healthcare workforce in the fight against COVID-19. We are calling for former and current healthcare professionals to be on standby, and join us when we need additional support.
 image: /images/favicon-healthcare-corps.png
 permalink: /
 sections:
